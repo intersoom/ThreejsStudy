@@ -80,7 +80,7 @@ hello1();
 > js, css, img 등의 파일들을 각각 하나의 모듈로 보고 배포용으로 병합하고 포장하는 작업
 > 
 
-![스크린샷 2022-08-07 오전 2.52.53.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/083707ea-d42e-40dc-b77b-0b10717f32ae/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-08-07_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_2.52.53.png)
+![스크린샷 2022-08-07 오전 2 52 53](https://user-images.githubusercontent.com/78731710/183270682-c7a905db-6dfe-4436-9776-c1eafb3e9f11.png)
 
 → **번들러:** 번들링 작업을 수행하는 것
 
