@@ -153,7 +153,7 @@ output: {
 
 ## 기본 장면 구성요소
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71c65654-580b-41a7-a164-25c0b85eab0b/Untitled.png)
+![스크린샷 2022-09-05 오후 11 32 45](https://user-images.githubusercontent.com/78731710/188472345-03ecd430-6a27-4f24-8f74-dfb2a37d3dac.png)
 
 - scene: 장면/무대
     
@@ -237,7 +237,7 @@ camera:
     PerspectiveCamera(fov: Number, aspect: Number, near: Number, far: Number)
     ```
     
-    ![image_2_near_far.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64321dca-a413-4669-a151-086a5c3ad4f6/image_2_near_far.png)
+    ![스크린샷 2022-09-05 오후 11 33 13](https://user-images.githubusercontent.com/78731710/188472576-adc96d38-b4f1-4d89-83bd-a750b906a384.png)
     
     - fov: 시야각
     - aspect: 종횡비, 가로 / 세로 비율, (너비) / (높이)
